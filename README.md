@@ -4,7 +4,7 @@ Currently, I am actively seeking opportunities in positions like Data Analyst, B
 
 
 
-🛠️ Tools
+🛠️ Tools:
 
 Database: Google BigQuery, MySQL
 
